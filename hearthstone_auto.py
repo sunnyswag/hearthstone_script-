@@ -37,7 +37,7 @@ def cards_out():
 
     # 英雄技能
     mouse_click(1130, 820)
-    mouse_click(100, 100)
+    mouse_click(100,100)
     time.sleep(1)
 
 
