@@ -1,4 +1,4 @@
-﻿opencv-python
+opencv-python
 numpy
 time
 pillow
