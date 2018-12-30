@@ -22,17 +22,17 @@
 
    1.Install dependencies
 
-	```bash
-	pip3 install -r requirements.txt
-	```
+```bash
+pip3 install -r requirements.txt
+```
     
    2.Open HearthStone and get the desk choose
 
    3.Run hearthstone_auto from the repository root directory
 
-	```bash
-	python3 hearthstone_auto.py
-	```
+```bash
+python3 hearthstone_auto.py
+```
     
    4.Watch and enjoy it
 
@@ -44,10 +44,10 @@
 
    Just me. Welcome in as long as you're interested in it.
 
-	```
-	We-chat: hhq_sunny_swag-
-	Email:   hhq126152@gmail.com
-	```
+```
+We-chat: hhq_sunny_swag-
+Email:   hhq126152@gmail.com
+```
 
 ## License
 
