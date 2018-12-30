@@ -4,9 +4,11 @@
 
 ## Introduction
 
-   A poor college student want to earn more gold in HearthStone.
+   * A poor college student want to earn more gold in HearthStone.
 
-   I write in python and use some cv2 built-in functions ,such as,Canny()，matchTemplate() and compareHist().You can get details by reading the source codes `hearthstone_auto`.py.However,the comments are written by Chinese.If you have any questions ,please contact me.
+   * I write in python and use some cv2 built-in functions ,such as,Canny()，matchTemplate() and compareHist().You can get details by reading the source code `hearthstone_auto`.py.However,the comments are written by Chinese.If you have any questions ,please contact me.
+   
+   * Some implemented functions :start game ,play cards ,trample face ,attack sneer attends and end turn.
 
 ## Getting Started
 
@@ -36,7 +38,7 @@ python3 hearthstone_auto.py
     
 4. Watch and enjoy it
 
-## Future Works
+## Future Work
 
    I will use Reinforcement Learning to rebuild the project.So exciting!
 
